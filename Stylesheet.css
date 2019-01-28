@@ -1,0 +1,94 @@
+body {
+    font-family: sans-serif ;
+    background-image: url("macos-mojave-default-wallpaper-light.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-attachment : fixed;
+    width: 100% ;
+    background-color:black;
+    
+    
+}
+
+h1{
+    margin-bottom: 5% ; 
+    text-align: center ; 
+    font-size: 70px;
+    margin-top: 5% ;
+}
+
+.maps {
+    float : right ;
+    margin-right : 2% ; 
+    
+}
+.data {
+    width : 47% ; 
+    height : 24.5% ;
+    background-color: black ;
+    margin-left : 2% ;
+    margin-bottom: 2% ;
+    
+    
+    
+}
+.sos {
+    width: 47% ;
+    height: 24.5%;
+    background-color: lightgrey; 
+    margin-top: 2% ; 
+    margin-left: 2% ;
+    
+}
+
+.urgence {
+    text-align: center;
+    font-size: 80px;
+    padding-bottom: 50% ;
+    color:darkred ;
+}
+
+.info {
+    text-align: center;
+    font-size: 80px;
+    padding-bottom: 8% ;
+    color: white ;
+    
+}
+
+.temp {
+    width: 50% ;
+    height: 100%;
+    background-color: lightgrey;
+    float : right ;
+}
+
+.tempp {
+    width: 50% ;
+    height: 100%;
+    background-color: lightgrey;
+    
+    
+}
+
+
+.name {
+    font-size: 20px;
+    text-align: center;
+    padding-left: 20%;
+    padding-top:5% ;
+}
+
+.weatherwidget-io {
+    margin-top: 8% ;
+}
+.input {
+    margin-left:8% ;
+}
+.chat {
+    width: 90% ;
+    height:40% ; 
+    background-color: black ;
+    margin-top: 5% ;
+    margin-left:5% ;
+}
